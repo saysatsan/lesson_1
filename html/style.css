@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ol {
+    margin-left: 40px;
+}
+
+img {
+width: 200px;
+height: 200px;
+}
+
+.backgruond_login {
+    background-color: aqua;
+    width: 300px;
+}
+
+.wrapper {
+    display: flex;
+
+}
+
+textarea {
+    resize: none;
+}
+
+.line{
+    background-color: #FFFF66;
+}
+
+.block {
+    background-color: #CC0033;
+}
